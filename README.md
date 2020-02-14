@@ -1,4 +1,5 @@
 # CarWashCheckout
 This program is a car wash self service checkout system built in java that allows the user to select from suggested washes and offers add on detail services for a discount on the total price.
-built by Simon Sharaf
+Built by Simon Sharaf
 V1.0.0
+Created on February 13, 2020
